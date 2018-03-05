@@ -1,0 +1,13 @@
+#coin{
+  height:200px;
+  width:200px;
+  border: 1px solid black;
+}
+
+.heads{
+  background-image: url(../heads.jpg);
+}
+
+.tails{
+background-image: url(../tails.jpg);
+}
